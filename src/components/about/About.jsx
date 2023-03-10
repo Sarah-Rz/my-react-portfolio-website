@@ -32,35 +32,32 @@ const About = () => {
           </div>
           <div className="about__story">
           <p>
-              Hi, My name is Sara. I'm interested in Front-End development. 
-              I started Coding in January 2022 with Scrimba and then with Free Code Camp.
+          Hallo, mein Name ist Sara. Ich interessire mich für Frontend Web Entwicklung. Im Januar 2022 habe ich zuerst mit Scrimba und dann mit Free Code Camp angefangen zu programmieren. 
+          Hier ist meine Geschichte, wie ich eine Entwicklerin wurde!
               <br />
-              Here is my Story of how I became a Developer!
             </p>
           </div>
         </div>
       </div>
       <div className="about__story-part-2">
         <p>
-          First of all, I went to medical University to study Genetics. 
-          As a kid, I was always curious about Details and how tiny little Things can have big Effects. 
-          I thought Genetics was a field where I could do extraordinary Things.
-          <br />
-          <b>But</b> I was wrong. My Ideas about Genetics were very different from what was taught at 
-          University. After I graduated, I started learning a new Language. German. Because of my interest
-          in this Language, I decided to work as a Translator in a translation Agency for a while. 
-          There I worked for hours on the Computer, and I enjoyed it. However, the lack of Challenges
-          bothered me a little, and sometimes it got boring. At that time, I had a Roommate who worked
-          in field of SEO. She would always talk excitedly about her Work, her Projects, and the cool Team she was
-          working with. Sounds awesome, right? That was the turning point in my Life. I started looking for
-          all kinds of IT Jobs and eventually found it. When I wrote my first Code "Hello World", a new
-          World opened up for me! And my Journey into this wonderful World began. I learned basic <b>HTML</b>
-          , <b>CSS</b>, and <b>JavaScript</b> with <b>Scrimba</b>. After that, I took <b>Front-End</b> Courses
-          at <b>Free Code Camp</b> and built some Projects
-          with JS Frameworks like <b>React</b> and modern responsive CSS
-          Frameworks like <b>Materialize</b> and <b>Bootstrap</b>. Now I'm
-          learning more and more every Day.
-          <br />I'm looking to collaborate with a great Team!
+       
+Zunächst habe ich an der medizinischen Universität Genetik studiert. 
+Als Kind war ich immer neugierig auf Details und darauf, wie winzig kleine Dinge große Auswirkungen haben können. 
+Ich dachte, die Genetik sei ein Gebiet, auf dem ich außerordentliche Dinge tun könnte.
+Aber ich habe mich geirrt. Meine Vorstellungen von der Genetik waren ganz anders als das, was an der Universität gelehrt wurde. 
+Nach meinem Abschluss begann ich, eine neue Sprache zu lernen. Deutsch. 
+Da ich mich für diese Sprache interessierte, beschloss ich, als deutsche Übersetzerin in einer Firma zu arbeiten. 
+Dort habe ich rund um die Uhr an Computer gearbeitet und es hat mir Spaß gemacht. 
+Der Mangel an Herausforderungen war für mich jedoch lästig. 
+Zu dieser Zeit hatte ich eine Mitbewohnerin, die im Bereich SEO arbeitete. 
+Sie redete immer begeistert von ihrem Beruf, ihren Projekten und dem tollen Team, mit dem sie arbeitete. 
+Klingt toll, oder? Das war der Wendepunkt in meinem Leben. 
+Ich begann, nach allen möglichen IT-Jobs zu suchen, und schließlich fand ich es. 
+Als ich meinen ersten Code "Hello World" schrieb, öffnete sich eine neue Welt für mich!
+Und meine Expedition in dieser wunderbaren Welt begann. Ich habe mit Scrimba grundlegende HTML, CSS und JavaScript gelernt. 
+Danach habe ich Frontend Kurse bei Free Code Camp belegt und einige Projekte mit JS Frameworks wie React und modernen responsiven CSS Frameworks wie Materialize, Bootstrap und Chakra UI erstellt.
+
         </p>
       </div>
     </section>
