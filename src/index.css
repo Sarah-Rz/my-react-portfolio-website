@@ -16,7 +16,8 @@
     --color-primary: #1d274f;
     --color-primary-variant: rgb(49, 49, 75);
     --color-dark: rgb(66, 68, 68);
-    --color-light: #00838f;
+    --color-light: #165e3a;
+    --color-lighter: #84bd9b;
 
     --transition: all 400ms ease;
 
@@ -67,7 +68,11 @@ section > h2 {
 }
 
 .text-light {
-    color: var(--color-light);
+    color: var(--color-lighter);
+}
+
+.text-primary {
+    color: var(--color-primary);
 }
 
 a {
@@ -91,14 +96,31 @@ a:hover {
 }
 
 .btn:hover {
-    background: var(--color-bg);
+    background: var(--color-white);
     color: var(--color-primary);
-    border-color: transparent;
+    border-color: var(--color-primary);
 }
 
 .btn-primary {
     background: var(--color-primary);
     color: var(--color-white);
+}
+
+.btn-header {
+    background: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-white);
+}
+.btn-primary-header {
+    background: var(--color-bg);
+    color: var(--color-primary);
+    border-color: transparent;
+}
+
+.btn-primary-header:hover {
+    background: transparent;
+    color: var(--color-bg);
+    border-color: var(--color-bg);
 }
 
 img {

@@ -1,5 +1,6 @@
 import React from 'react'
 import './portfolio.css'
+import { FaMedapps } from 'react-icons/fa'
 import IMG1 from '../../assets/portfolio-1.jpg'
 import IMG2 from '../../assets/portfolio-2.jpg'
 import IMG3 from '../../assets/portfolio-3.jpg'
@@ -121,8 +122,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>Some Of My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>Einige meiner aktuellen Projekte</h5>
+      <h2>Portfolio <FaMedapps/></h2>
 
       <div className="container portfolio__container">
         {

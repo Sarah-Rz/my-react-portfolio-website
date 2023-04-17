@@ -43,12 +43,6 @@
     transition: var(--transition);
 }
 
-.about__card:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
-}
-
 .about__icon {
     color: var(--color-primary);
     font-size: 1.4rem;
@@ -71,17 +65,18 @@
 
 .about__story {
     font-family: 'Poor Story', cursive;
-    font-size: 1.75rem;
+    font-size: 1.35rem;
+    text-align: justify;
 }
 
 .about__story-part-2 {
     font-family: 'Poor Story', cursive;
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     width: 70%;
     margin: 20px auto;
+    text-align: justify;
     color: var(--color-dark);
 }
-
 
 /* ===================  (MEDIUM DEVICES) ======================== */
 @media screen and (max-width: 1024px) {
@@ -111,6 +106,7 @@
     .about__cards {
         grid-template-columns:  1fr;
         gap: 1rem;
+        padding-left: 2.75rem;
     }
 
     .about__content {
