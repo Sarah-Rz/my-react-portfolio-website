@@ -75,7 +75,7 @@ const About = () => {
         Dynamisierung der Webseite (für die Klinik) mit Jinja (Logik), erstellt die Seite (Register/Login, Blogs, Profile, 
         Onlinereservierung, Galerie,...), lösung der Probleme, Arbeit mit CSS, Bootstrap, Fancybox,..., Anwendung von Lozad und SEO, Arbeit mit API, WinSCP, wenige Erfahrung mit Javascript für einige Teil, uzw.
         Und jetzt will ich eine Ausbildung als Anwendungsentwicklerin in Deutschland machen!
-        Begleiten Sie mich auf dieser wunderbaren Expedition!
+        Begleiten Sie mich auf dieser wunderbaren Expedition!...
         </p>
       </div>
     </section>
